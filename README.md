@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chridubois" alt="chridubois" /></a> </p>
 
-- 🔭 I’m currently working on [nutrimood](https://www.nutrimood.app)
+- 🔭 I’m currently working on Kans
 
 - 🌱 I’m currently learning **Node JS, Django, VuesJS**
 
